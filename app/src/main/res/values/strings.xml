@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AplicacionAndroid</string>
+    <string name="btn_iniciar_actividad">Iniciar actividad</string>
+</resources>
